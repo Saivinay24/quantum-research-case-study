@@ -1,4 +1,4 @@
-![publications per year](https://github.com/user-attachments/assets/2fb68ea4-73c3-43f9-8a20-d5fc4c755661)# quantum-research-case-study
+# quantum-research-case-study
 This is a self-directed data analytics project built using skills from the Google Data Analytics Certificate. It explores research trends in quantum computing using metadata from 10,000+ papers published on arXiv in the "quant-ph" category.
 
 
