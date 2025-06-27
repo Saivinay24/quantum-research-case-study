@@ -1,4 +1,4 @@
-# quantum-research-case-study
+![publications per year](https://github.com/user-attachments/assets/2fb68ea4-73c3-43f9-8a20-d5fc4c755661)# quantum-research-case-study
 This is a self-directed data analytics project built using skills from the Google Data Analytics Certificate. It explores research trends in quantum computing using metadata from 10,000+ papers published on arXiv in the "quant-ph" category.
 
 
@@ -22,14 +22,17 @@ To explore quantum research growth over time, identify popular research keywords
 ##  Visualizations
 
 ### Quantum Research Publications by Year
-![publications per year](https://github.com/user-attachments/assets/02bb4392-f496-49b2-bc60-375ef32bdff1)
+![publications per year](https://github.com/user-attachments/assets/990d90ad-7ed0-4c23-a562-6f6bffc62c91)
+
 
 
 ### Top 20 Keywords in Quantum Papers
-![Top 20 keywords](https://github.com/user-attachments/assets/c8845885-a86d-4811-b280-cac58534addd)
+![Top 20 keywords](https://github.com/user-attachments/assets/7384f89b-1f80-4cfc-a911-6266fdbbaffa)
+
 
 ### Top 10 Authors 
-![Top 10 Authors](https://github.com/user-attachments/assets/17f698a3-1073-4007-8dad-fb33d70326c1)
+![Top 10 Authors](https://github.com/user-attachments/assets/c5ab4449-3d85-4ec0-9360-f59c6187ae9c)
+
 
 ---
 
